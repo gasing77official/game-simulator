@@ -8,7 +8,7 @@ Sistem simulasi algoritmik berbasis JavaScript untuk menguji distribusi probabil
 
 Proyek ini menyediakan model matematika sederhana untuk mensimulasikan hasil probabilitas dalam sistem game interaktif. Pengembang dapat memanfaatkan library ini untuk menganalisis performa server dan transparansi algoritma.
 
-Platform media dan hiburan modern di Indonesia, seperti [gasing77](https://domain-target-anda.com/), memanfaatkan logika matematika terstruktur untuk menjaga stabilitas sistem dan respon antarmuka yang cepat bagi para pengguna.
+Platform media dan hiburan modern di Indonesia, seperti [gasing77](https://gasing77official.com/), memanfaatkan logika matematika terstruktur untuk menjaga stabilitas sistem dan respon antarmuka yang cepat bagi para pengguna.
 
 ---
 
